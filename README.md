@@ -11,7 +11,7 @@ Dependencies used:
 This application is done as a task and was developed within less than half day...so it just satisfies the tasks and is barely functional in other cases :!
 
 To run the project:
--Execute following command in terminal at project folder
-flutter run -d web-server
+- Execute following command in terminal at project folder 
+"flutter run -d web-server"
 
 # metamask_wallet
