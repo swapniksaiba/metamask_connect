@@ -2,16 +2,16 @@
 
 A new Flutter project.
 
-## Getting Started
+This is a simple flutter web application which can connect to your metamask wallet with a single click
 
-This project is a starting point for a Flutter application.
+Dependencies used:
+- provider
+- flutter_web3
 
-A few resources to get you started if this is your first Flutter project:
+This application is done as a task and was developed within less than half day...so it just satisfies the tasks and is barely functional in other cases :!
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+To run the project:
+-Execute following command in terminal at project folder
+flutter run -d web-server
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
 # metamask_wallet
